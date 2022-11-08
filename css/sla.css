@@ -58,7 +58,7 @@ div.tenis {
   }  
 div.container {
     font-family:  calibri;
-    color: #ff0000;
+    color: #000000;
     text-align: center;
     padding: 10px 20px;
     font-size: 20px;
@@ -93,11 +93,6 @@ div.container {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
   }  
-#texto-central{
-    color: #2ba53b;
-    text-align: center;
-    margin-top: 30px;
-}
 div.tenis-5 {
     display: inline-block;
     margin-top: 50px;
@@ -137,10 +132,49 @@ div.tenis-5 {
     background-color: #ffffff;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
-  }    
+  }
+  div.tenis-9 {
+    display: inline-block;
+    margin-top: 50px;
+    margin: 20px;
+    width: 265px;
+    height:325px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  div.tenis-10 {
+    display: inline-block;
+    margin-top: 50px;
+    margin: 20px;
+    width: 265px;
+    height:325px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  div.tenis-11 {
+    display: inline-block;
+    margin-top: 50px;
+    margin: 20px;
+    width: 265px;
+    height:325px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }div.tenis-12 {
+    display: inline-block;
+    margin-top: 50px;
+    margin: 20px;
+    width: 265px;
+    height:325px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }  
   #nome {
     font-family: calibri;
-    color: #f84646;
+    color: #000000;
     text-align: center;
     padding: 10px 20px;
     font-size: 20px;
