@@ -49,7 +49,7 @@ main{
 div.tenis {
     display: inline-block;
     margin-top: 63px;
-    margin-left: 117px;
+    margin: 20px;
     width: 265px;
     height:325px;
     background-color: #ffffff;
@@ -66,7 +66,7 @@ div.container {
   div.tenis-2 {
     display: inline-block;
     margin-top: 63px;
-    margin-left: 20px;
+    margin: 20px;
     width: 265px;
     height:325px;
     background-color: #ffffff;
@@ -76,8 +76,7 @@ div.container {
   div.tenis-3 {
     display: inline-block;
     margin-top: 63px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 20px;
     width: 265px;
     height:325px;
     background-color: #ffffff;
@@ -87,7 +86,7 @@ div.container {
   div.tenis-4 {
     display: inline-block;
     margin-top: 63px;
-    margin-right: 100px;
+    margin: 20px;
     width: 265px;
     height:325px;
     background-color: #ffffff;
@@ -102,7 +101,7 @@ div.container {
 div.tenis-5 {
     display: inline-block;
     margin-top: 50px;
-    margin-left: 117px;
+    margin: 20px;
     width: 265px;
     height:325px;
     background-color: #ffffff;
@@ -112,7 +111,7 @@ div.tenis-5 {
   div.tenis-6 {
     display: inline-block;
     margin-top: 50px;
-    margin-left: 20px;
+    margin: 20px;
     width: 265px;
     height:325px;
     background-color: #ffffff;
@@ -122,8 +121,7 @@ div.tenis-5 {
   div.tenis-7 {
     display: inline-block;
     margin-top: 50px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 20px;
     width: 265px;
     height:325px;
     background-color: #ffffff;
@@ -133,7 +131,7 @@ div.tenis-5 {
   div.tenis-8 {
     display: inline-block;
     margin-top: 50px;
-    margin-right: 100px;
+    margin: 20px;
     width: 265px;
     height:325px;
     background-color: #ffffff;
